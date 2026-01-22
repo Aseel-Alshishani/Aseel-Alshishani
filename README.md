@@ -15,7 +15,7 @@
   <li>🧠 Junior Data Science student at The Hashemite University (GPA: 3.95/4.00)</li>
   <li>⚙️ Skilled in Python, Java, SQL, Power BI, NumPy, Pandas, Scikit-learn</li>
   <li>🌍 Based in Zarqa, Jordan</li>
-  <li>🏆 Dean's List Honoree (2x) & AI Enthusiast</li>
+  <li>🏆 Dean's List Honoree & AI Enthusiast</li>
 </ul>
 
 ---
@@ -67,5 +67,4 @@
   <li>📧 Email: <a href="mailto:aseel.shishani2005@email.com">aseel.shishani2005@email.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aseel-alshishani">in/aseel-alshishani</a></li>
   <li>💻 GitHub: <a href="https://github.com/Aseel-Alshishani">Aseel-Alshishani</a></li>
-  <li>📄 Resume: <a href=[assets/resume.pdf](https://drive.google.com/file/d/1kK7Ix4FU8D8fDtO_TrlSR9gd9PaftNQg/view?usp=sharing)>View My CV</a></li>
 </ul>
