@@ -56,7 +56,7 @@
 
 <h2>🏅 Achievements & Organizations</h2>
 
-- 🧠 **IAIDL Course Certification**
+- 🧠 **IAIDL Course**
 - 🔰 **Etihad-IT Academic Team** - Member
 - 📊 **Kaggle:** [Aseel Alshishani](https://www.kaggle.com/aseelalshishani)
 
@@ -67,5 +67,5 @@
   <li>📧 Email: <a href="mailto:aseel.shishani2005@email.com">aseel.shishani2005@email.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aseel-alshishani">in/aseel-alshishani</a></li>
   <li>💻 GitHub: <a href="https://github.com/Aseel-Alshishani">Aseel-Alshishani</a></li>
-  <li>📄 Resume: <a href="[assets/resume.pdf](https://drive.google.com/file/d/1kK7Ix4FU8D8fDtO_TrlSR9gd9PaftNQg/view?usp=sharing)">View My CV</a></li>
-</ul>vvv
+  <li>📄 Resume: <a href=[assets/resume.pdf](https://drive.google.com/file/d/1kK7Ix4FU8D8fDtO_TrlSR9gd9PaftNQg/view?usp=sharing)>View My CV</a></li>
+</ul>
