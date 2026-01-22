@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aseel Alshishani </h1>
 <h3 align="center"> Data Science and Artificial Intelligence Student </h3>
 <p align="center">
-  <strong>She/Her</strong> • Passionate about machine learning
+  <strong>She/Her</strong> • Passionate about Machine Learning & Data Mining
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 <h2>📍 About Me</h2>
 <ul>
-  <li>🧠 interested in Machine Learning </li>
-  <li>⚙️ Skilled in Python, C++, Java, Power BI, NumPy, Pandas.</li>
-  <li>🌍 Based in Jordan</li>
-  <li>🏆 AI & Data Science Enthusiast</li>
+  <li>🧠 Junior Data Science student at The Hashemite University (GPA: 3.95/4.00)</li>
+  <li>⚙️ Skilled in Python, Java, SQL, Power BI, NumPy, Pandas, Scikit-learn</li>
+  <li>🌍 Based in Zarqa, Jordan</li>
+  <li>🏆 Dean's List Honoree (2x) & AI Enthusiast</li>
 </ul>
 
 ---
@@ -24,46 +24,48 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔹 [**Project Name**](#) | [Short description] | [Tech stack] |
-| 🔹 [**Project Name**](#) | [Short description] | [Tech stack] |
+| 🔹 [**Telco Customer Churn**](https://github.com/Aseel-Alshishani) | ML models (Logistic Regression, Random Forest) to predict churn, utilizing SMOTE for class imbalance. | Python, Scikit-learn, SMOTE, Seaborn |
+| 🔹 [**Life Expectancy Analysis**](https://github.com/Aseel-Alshishani) | Regression model predicting life expectancy with 0.94 R² score using Backward Elimination feature selection. | Python, Pandas, Matplotlib, Cross-Validation |
+| 🔹 [**Airline Passenger Satisfaction**](https://github.com/Aseel-Alshishani) | Classification model achieving 87.5% accuracy and 0.93 AUC to identify dissatisfied customers. | Python, Logistic Regression, K-Fold CV |
+| 🔹 [**Call Center Dashboard**](https://github.com/Aseel-Alshishani) | Interactive dashboard analyzing 5,000 calls to track agent performance and resolution trends. | Power BI, Data Analysis |
 
 ---
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aseel-Alshishani&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseel-Alshishani&theme=radical" width="48%"/>
 </p>
 
 ---
 
 <h2>🛠 Tools & Technologies</h2>
 <p align="left">
-  <img src="" width="40"/>
-  <img src="" width="40"/>
-  <!-- Add more icons here -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 <h2>🏅 Achievements & Organizations</h2>
 
-- 🧠 [Badge or recognition]  
-- 🔰 Member of Etihad-IT HU(#)
-- 📊 Kaggle: [Aseel Alshishani](https://www.kaggle.com/aseelalshishani)(#)
+- 🧠 **IAIDL Course Certification**
+- 🔰 **Etihad-IT Academic Team** - Member
+- 📊 **Kaggle:** [Aseel Alshishani](https://www.kaggle.com/aseelalshishani)
 
 ---
 
 <h2>📫 Connect with Me</h2>
 <ul>
-  <li>📧 Email: <a href="mailto:aseel.shishani2005@gmail.com">aseel.shishani2005@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aseel-alshishani-91bba2331">/in/aseel-alshishani</a></li>
+  <li>📧 Email: <a href="mailto:aseel.shishani2005@email.com">aseel.shishani2005@email.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aseel-alshishani">in/aseel-alshishani</a></li>
   <li>💻 GitHub: <a href="https://github.com/Aseel-Alshishani">Aseel-Alshishani</a></li>
-  <li>📄 Resume: <a href="assets/resume.pdf">Click to View</a></li>
-</ul>
-
----
-
-<h2>⚡ Fun Fact</h2>
-<p>[Insert a fun or quirky fact about yourself]</p>
+  <li>📄 Resume: <a href="[assets/resume.pdf](https://drive.google.com/file/d/1kK7Ix4FU8D8fDtO_TrlSR9gd9PaftNQg/view?usp=sharing)">View My CV</a></li>
+</ul>vvv
