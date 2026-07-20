@@ -4,10 +4,6 @@
   <strong>She/Her</strong> • Passionate about Machine Learning & Data Mining
 </p>
 
-<p align="center">
-  <img src="assets/profile.jpg" width="55%"/>
-</p>
-
 ---
 
 <h2>📍 About Me</h2>
@@ -31,15 +27,6 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aseel-Alshishani&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseel-Alshishani&theme=radical" width="48%"/>
-</p>
-
----
-
 <h2>🛠 Tools & Technologies</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,18 +40,10 @@
 </p>
 
 ---
-
-<h2>🏅 Achievements & Organizations</h2>
-
-- 🧠 **IAIDL Course**
-- 🔰 **Etihad-IT Academic Team** - Member
-- 📊 **Kaggle:** [Aseel Alshishani](https://www.kaggle.com/aseelalshishani)
-
----
-
 <h2>📫 Connect with Me</h2>
 <ul>
   <li>📧 Email: <a href="mailto:aseel.shishani2005@email.com">aseel.shishani2005@email.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/aseel-alshishani">in/aseel-alshishani</a></li>
   <li>💻 GitHub: <a href="https://github.com/Aseel-Alshishani">Aseel-Alshishani</a></li>
+  <li>📊 Kaggle: <a href="https://www.kaggle.com/aseelalshishani">Aseel-Alshishani</a></li>
 </ul>
